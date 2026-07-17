@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently an engineering student at **Mangalore Institute of Technology & Engineering (MITE)**.
 - 🎮 I love building interactive web-based games (like Snake and Ladders) using pure **HTML, CSS, and JavaScript**.
-- 💻 I regularly practice programming in **C** and solve algorithmic challenges.
+- 💻 I regularly practice programming in **JAVA** and solve algorithmic challenges.
 - ⚙️ I enjoy diving into hardware diagnostics, system setups via **Windows PowerShell**, and customizing digital environments.
 - 📫 Reach out to me at: **[mandar.shetty099@gmail.com](mailto:mandar.shetty099@gmail.com)**
 
@@ -31,20 +31,27 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandar099&show_icons=true&theme=tokyonight&hide_border=true" alt="Mandar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true" alt="Mandar's GitHub Streak" width="48%" />
+  <a href="https://github.com/Mandar099">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mandar099&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mandar's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Mandar099">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true" alt="Mandar's GitHub Streak" width="48%" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandar099&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Mandar099">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandar099&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </p>
