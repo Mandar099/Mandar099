@@ -9,19 +9,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mandar%20Shetty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Engineer%20%7C%20Web%20Enthusiast&descAlignY=55&descSize=20" />
 </p>
 
-<!-- Animated social badges with glowing effect -->
+<!-- Beautiful two-tone social badges -->
 <p align="center">
   <a href="https://linkedin.com/in/mandar099" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=0A66C2&animation=glowing" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e" alt="LinkedIn" />
   </a>
   <a href="https://g.dev/Mandar099" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white&animation=glowing" alt="Google Dev" />
+    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1e1e2e" alt="Google Dev" />
   </a>
   <a href="mailto:mandar.shetty099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glowing" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" alt="Email" />
   </a>
   <a href="https://github.com/Mandar099" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=glowing" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" alt="GitHub" />
   </a>
 </p>
 
@@ -52,9 +52,12 @@
 + 🌱 Currently deepening my knowledge in full‑stack development
 + 🎮 Fun fact: I debug my code by playing retro games
 
+
 ⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,powershell,vscode,github&theme=dark&perline=9" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,powershell,vscode,github&theme=dark&perline=9" /> </p><!-- Animated activity graph -->
 https://github-readme-activity-graph.vercel.app/graph?username=Mandar099&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area_color=2196F3&title_color=2196F3
 
 📊 GitHub Stats
 <p align="center"> <a href="https://github.com/Mandar099"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mandar099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" /> </a> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandar099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF" /> </p><!-- Animated trophy case --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mandar099&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" /> </p><!-- Animated footer wave --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" /> </p> ```
+
+
