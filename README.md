@@ -68,10 +68,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandar099&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area_color=2196F3&title_color=2196F3" alt="Activity Graph" />
 </p>
 
+
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
 </p>
+
+
+
+## 🎧 My Playlist
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/31ni3ezltiaqtzqpx6wuikq7r7vm" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen_To_My_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</p>
+
 
 <!-- Animated footer wave -->
 <p align="center"> 
