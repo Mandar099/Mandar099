@@ -59,25 +59,23 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,powershell,vscode,github&theme=dark&perline=9" /> 
 </p>
 
-<!-- Animated activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandar099&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area_color=2196F3&title_color=2196F3" alt="Activity Graph" />
-  
-</p>
 
 
 ## 📊 GitHub Stats
 
+<!-- Animated activity graph -->
 <p align="center">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Mandar099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats" />
-  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandar099&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area_color=2196F3&title_color=2196F3" alt="Activity Graph" />
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandar099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
 </p>
 
-<!-- Animated trophy case -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mandar099&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&cache_seconds=86400" alt="Trophy Case" />
+<!-- Animated footer wave -->
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" /> 
 </p>
+
+
