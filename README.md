@@ -69,10 +69,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Mandar099">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mandar099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
-  </a>
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Mandar099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats" />
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -83,6 +81,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mandar099&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&cache_seconds=86400" alt="Trophy Case" />
 </p>
-
-<!-- Animated footer wave -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" /> </p>
