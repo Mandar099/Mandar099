@@ -10,8 +10,6 @@
 </p>
 
 <!-- Beautiful two-tone social badges -->
-<!-- App-style social icons -->
-<!-- App-style social icons from xandemon/developer-icons -->
 <p align="center">
   <a href="https://linkedin.com/in/mandar099" target="_blank">
     <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
@@ -24,8 +22,11 @@
   <a href="https://github.com/Mandar099" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://me.developers.google.com/u/Mandar099" target="_blank">
+    <img src="https://www.gstatic.com/_/boq-gdp/_/r/wfmOAUQX5zs.svg" alt="Google Developers" height="40" width="40" />
+  </a>
 </p>
-
 
 <!-- Animated visitor counter -->
 <p align="center">
@@ -56,7 +57,8 @@
 
 
 ## ⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,powershell,vscode,github&theme=dark&perline=9" /> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,powershell,vscode,github,linux,windows&theme=dark&perline=9" />
 </p>
 
 
@@ -76,7 +78,7 @@
 
 
 
-## 🎧 My Playlist
+
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/31ni3ezltiaqtzqpx6wuikq7r7vm" target="_blank">
@@ -84,6 +86,14 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://www.google.com/logos/2010/pacman10-hp.html" target="_blank">
+    <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/pac-man.gif" alt="Pac-Man" height="100" />
+  </a>
+  <br />
+  <sub>🟡 Click the Pac‑Man to play the classic arcade game!</sub>
+</p>
 
 <!-- Animated footer wave -->
 <p align="center"> 
