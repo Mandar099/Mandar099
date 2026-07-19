@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=500&color=2196F3&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Mandar+Shetty;%F0%9F%92%BB+C+%26+Java+Programmer;%F0%9F%95%B9%EF%B8%8F+Web+Developer+%26+Gamer;%E2%9A%A1+Always+learning+new+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=40&duration=100&pause=30&color=F700FF&center=true&vCenter=true&width=1000&lines=%F0%9F%98%88+WHO+AM+I%3F+UNDEFINED;%F0%9F%94%A5+CODE+BURNS+LIKE+SUN;%F0%9F%A7%A0+BRAIN+%3D+SEGFAULT;%F0%9F%91%BE+JAVA%3F+JAV-NO;%F0%9F%92%BB+C+IS+MY+RELIGION;%F0%9F%94%AE+while(1)+%7B+party%3B+%7D;%F0%9F%8C%8A+REALITY+IS+A+POINTER;%F0%9F%A4%AF+404%3A+F*CKS+GONE;%F0%9F%8E%AE+GAMER+BY+NIGHT;%F0%9F%92%A5+KEYBOARD+ON+FIRE;%E2%98%A0%EF%B8%8F+DEADLINE%3F+NAH;%F0%9F%94%AB+STACK+OVERFLOW+HOME;%F0%9F%A4%96+COMMIT+NO+PULL;%F0%9F%94%A5+PRODUCTION+PLAYGROUND;%F0%9F%91%BD%EF%B8%8F+GITHUB+IS+LIFE;%F0%9F%92%A5+LEETCODE+GYM;%F0%9F%8D%80+MONSTER+DEBUG;%F0%9F%94%AE+NULL+IS+MY+EX;%F0%9F%92%80+SANITY+DELETED;%F0%9F%8E%AF+CODING+IS+DRUG;%F0%9F%94%AB+3AM+REFACTOR;%F0%9F%94%A5+push+--force+LOVE;%F0%9F%98%88+STACK+TRACE+ART;%F0%9F%91%BE+ASSEMBLY+ZEN;%F0%9F%8C%8A+CHAOS+MONKEY;%F0%9F%A4%AF+EXIT+69" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -46,15 +46,25 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow line" />
 </p>
+<h2 align="center">👾 ABOUT ME</h2>
 
-## 👨‍💻 About Me
-
-+ 🎯 Passionate about building interactive web experiences and game dev
-+ 💡 I turn coffee into clean code (sometimes into bugs too 😄)
-+ 🚀 I love experimenting with hardware diagnostics & PowerShell scripting
-+ 🌱 Currently deepening my knowledge in full‑stack development
-+ 🎮 Fun fact: I debug my code by playing retro games
-
+<div align="center">
+  <div style="background: #0d0d0d; color: #ff00ff; padding: 20px 30px; border-radius: 12px; border: 2px solid #ff00ff; font-family: 'Courier New', monospace; display: inline-block; text-align: left; box-shadow: 0 0 30px #ff00ff33, inset 0 0 30px #ff00ff11;">
+    <pre style="margin: 0; font-size: 13px; line-height: 1.9; color: #ff00ff; text-shadow: 0 0 5px #ff00ff66;">
+⌨️ 60+ WPM  |  ☕ Monster + Dread
+💀 Code now, debug never  |  🎮 Bugs = final boss
+🔥 HTML + manifestation  |  🧠 3 neurons + prayer
+💻 sudo rm -rf /sanity  |  🚀 Full-stressed dev
+🕹️ Crash? Rename  |  🎯 Unionize with AI
+😈 vars: wtf  |  🎮 Debug with DOOM
+🔮 Godhood via JS  |  💀 while(1) { code; }
+🏆 69 breaks  |  🧪 Cthulhu
+🌌 null = mindset  |  🎵 Error loop
+🔥 Tabs > Spaces  |  🤡 Stack Overflow
+🚀 Fonk: ∞
+    </pre>
+  </div>
+</div>
 
 ## ⚡ Tech Stack
 <p align="center">
