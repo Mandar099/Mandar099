@@ -85,7 +85,7 @@
 
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/31ni3ezltiaqtzqpx6wuikq7r7vm" target="_blank">
+  <a href="https://open.spotify.com/playlist/0xZd88VmnEIHmviN2QV2t2?si=5fa86973ec204898" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Listen_To_My_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
 </p>
