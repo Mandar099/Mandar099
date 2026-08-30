@@ -76,8 +76,9 @@
 ## 📊 GitHub Stats
 
 <!-- Animated activity graph -->
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandar099&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area_color=2196F3&title_color=2196F3" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandar099&theme=react&show_icons=true&hide_border=true&bg_color=0D1117" alt="Mandar's GitHub Stats" />
 </p>
 
 
