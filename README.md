@@ -73,14 +73,7 @@
 
 
 
-## 📊 GitHub Stats
-
-<!-- Animated activity graph -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandar099&theme=react&show_icons=true&hide_border=true&bg_color=0D1117" alt="Mandar's GitHub Stats" />
-</p>
-
+#
 
 <!-- GitHub Streak -->
 <p align="center">
