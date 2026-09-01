@@ -101,7 +101,7 @@
 
 
 
-<iframe src="https://github.com/sponsors/Mandar099/card" title="Sponsor Mandar099" height="225" width="600" style="border: 0;"></iframe>
+
 <!-- Animated footer wave -->
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" /> 
