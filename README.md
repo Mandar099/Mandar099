@@ -99,6 +99,9 @@
   <sub>🟡 Click the Pac‑Man to play the classic arcade game!</sub>
 </p>
 
+
+[![An image of @mandarshetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mandarshetty)](https://holopin.io/@mandarshetty)
+
 <!-- Animated footer wave -->
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" /> 
