@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -84,7 +84,6 @@
 </p>
 
 <!-- Spotify info and logo -->
-<h1 align="center"> Spotify</h1>
 <p align="center">
   <a href="https://open.spotify.com/playlist/0xZd88VmnEIHmviN2QV2t2?si=5fa86973ec204898" target="_blank">
     <img 
@@ -94,8 +93,8 @@
   </a>
 </p>
 <!-- coding boy  image -->
-
-<img width="1000" height="278" alt="1000116266" src="https://github.com/user-attachments/assets/ae9edaee-0bfe-4d56-a9d1-7384dc1ded47" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+<img width="900" height="278" alt="1000116266" src="https://github.com/user-attachments/assets/ae9edaee-0bfe-4d56-a9d1-7384dc1ded47" />
 
 <!-- Animated footer wave -->
 <p align="center"> 
