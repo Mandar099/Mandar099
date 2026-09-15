@@ -51,54 +51,50 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow line" />
 </p>
-<h2 align="center">👾 ABOUT ME</h2>
+<h2 align="left ">👾 ABOUT ME</h2>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=40&duration=100&pause=30&color=00D9FF&center=true&vCenter=true&width=1000&lines=%E2%8C%A8%EF%B8%8F+60%2B+WPM+%7C+%E2%98%95+MONSTER+%2B+DREAD;%F0%9F%92%80+CODE+NOW%2C+DEBUG+NEVER+%7C+%F0%9F%8E%AE+BUGS+%3D+FINAL+BOSS;%F0%9F%94%A5+HTML+%2B+MANIFESTATION+%7C+%F0%9F%A7%A0+3+NEURONS+%2B+PRAYER;%F0%9F%92%BB+sudo+rm+-rf+%2Fsanity+%7C+%F0%9F%9A%80+FULL-STRESSED+DEV;%F0%9F%95%B9%EF%B8%8F+CRASH%3F+RENAME+%7C+%F0%9F%8E%AF+UNIONIZE+WITH+AI;%F0%9F%98%88+vars%3A+wtf+%7C+%F0%9F%8E%AE+DEBUG+WITH+DOOM;%F0%9F%94%AE+GODHOOD+VIA+JS+%7C+%F0%9F%92%80+while(1)+%7B+code%3B+%7D;%F0%9F%8C%8C+null+%3D+mindset+%7C+%F0%9F%8E%B5+ERROR+LOOP;%F0%9F%94%A5+TABS+%3E+SPACES+%7C+%F0%9F%A4%A1+STACK+OVERFLOW;%F0%9F%9A%80+FONK%3A+%E2%88%9E" alt="Typing SVG" />
+  </a>
+</h3>
 
-<div align="center">
-  <div style="background: #0d0d0d; color: #ff00ff; padding: 20px 30px; border-radius: 12px; border: 2px solid #ff00ff; font-family: 'Courier New', monospace; display: inline-block; text-align: left; box-shadow: 0 0 30px #ff00ff33, inset 0 0 30px #ff00ff11;">
-    <pre style="margin: 0; font-size: 13px; line-height: 1.9; color: #ff00ff; text-shadow: 0 0 5px #ff00ff66;">
-⌨️ 60+ WPM  |  ☕ Monster + Dread
-💀 Code now, debug never  |  🎮 Bugs = final boss
-🔥 HTML + manifestation  |  🧠 3 neurons + prayer
-💻 sudo rm -rf /sanity  |  🚀 Full-stressed dev
-🕹️ Crash? Rename  |  🎯 Unionize with AI
-😈 vars: wtf  |  🎮 Debug with DOOM
-🔮 Godhood via JS  |  💀 while(1) { code; }
-
-🌌 null = mindset  |  🎵 Error loop
-🔥 Tabs > Spaces  |  🤡 Stack Overflow
-🚀 Fonk: ∞
-    </pre>
-  </div>
-</div>
-
-
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,powershell,vscode,github,linux,windows&theme=dark&perline=9" />
-</p>
-
-
-
-#
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
-</p>
-
-
-
-
+<h1 align="center">⚡ Tech Stack</h1>
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/0xZd88VmnEIHmviN2QV2t2?si=5fa86973ec204898" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listen_To_My_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,powershell,vscode,github,linux,windows&theme=dark&perline=6" 
+         alt="Tech Stack" 
+         width="580" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Web-00D9FF?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-00D9FF?style=for-the-badge&labelColor=0d0d0d&logo=visualstudiocode&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-00D9FF?style=for-the-badge&labelColor=0d0d0d&logo=linux&logoColor=00D9FF" />
+</p>
 
-<img align="center" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" 
+    alt="GitHub Streak" 
+    width="580" />
+</p>
+
+<!-- Spotify info and logo -->
+<h1 align="center"> Spotify</h1>
+<p align="center">
+  <a href="https://open.spotify.com/playlist/0xZd88VmnEIHmviN2QV2t2?si=5fa86973ec204898" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Spotify-Listen_To_My_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" 
+      alt="Spotify Playlist" 
+      width="580" />
+  </a>
+</p>
+<!-- coding boy  image -->
+<img width="1128" height="376" alt="linkedin-company-hero-1128x376" src="https://github.com/user-attachments/assets/7234e0ec-aca4-48db-a715-471da9087d78" />
 
 <!-- Animated footer wave -->
 <p align="center"> 
