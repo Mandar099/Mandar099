@@ -94,7 +94,7 @@
 </p>
 <!-- coding boy  image -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
-<img width="900"  alt="1000116266" src="https://github.com/user-attachments/assets/ae9edaee-0bfe-4d56-a9d1-7384dc1ded47" />
+<img width="1000" height="277" alt="1000116266" src="https://github.com/user-attachments/assets/ae9edaee-0bfe-4d56-a9d1-7384dc1ded47" />
 
 <!-- Animated footer wave -->
 <p align="center"> 
