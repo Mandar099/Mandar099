@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
+</p>
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=40&duration=100&pause=30&color=F700FF&center=true&vCenter=true&width=1000&lines=%F0%9F%98%88+WHO+AM+I%3F+UNDEFINED;%F0%9F%94%A5+CODE+BURNS+LIKE+SUN;%F0%9F%A7%A0+BRAIN+%3D+SEGFAULT;%F0%9F%91%BE+JAVA%3F+JAV-NO;%F0%9F%92%BB+C+IS+MY+RELIGION;%F0%9F%94%AE+while(1)+%7B+party%3B+%7D;%F0%9F%8C%8A+REALITY+IS+A+POINTER;%F0%9F%A4%AF+404%3A+F*CKS+GONE;%F0%9F%8E%AE+GAMER+BY+NIGHT;%F0%9F%92%A5+KEYBOARD+ON+FIRE;%E2%98%A0%EF%B8%8F+DEADLINE%3F+NAH;%F0%9F%94%AB+STACK+OVERFLOW+HOME;%F0%9F%A4%96+COMMIT+NO+PULL;%F0%9F%94%A5+PRODUCTION+PLAYGROUND;%F0%9F%91%BD%EF%B8%8F+GITHUB+IS+LIFE;%F0%9F%92%A5+LEETCODE+GYM;%F0%9F%8D%80+MONSTER+DEBUG;%F0%9F%94%AE+NULL+IS+MY+EX;%F0%9F%92%80+SANITY+DELETED;%F0%9F%8E%AF+CODING+IS+DRUG;%F0%9F%94%AB+3AM+REFACTOR;%F0%9F%94%A5+push+--force+LOVE;%F0%9F%98%88+STACK+TRACE+ART;%F0%9F%91%BE+ASSEMBLY+ZEN;%F0%9F%8C%8A+CHAOS+MONKEY;%F0%9F%A4%AF+EXIT+69" alt="Typing SVG" />
@@ -58,13 +63,14 @@
 🕹️ Crash? Rename  |  🎯 Unionize with AI
 😈 vars: wtf  |  🎮 Debug with DOOM
 🔮 Godhood via JS  |  💀 while(1) { code; }
-🏆 69 breaks  |  🧪 Cthulhu
+
 🌌 null = mindset  |  🎵 Error loop
 🔥 Tabs > Spaces  |  🤡 Stack Overflow
 🚀 Fonk: ∞
     </pre>
   </div>
 </div>
+
 
 ## ⚡ Tech Stack
 <p align="center">
@@ -91,15 +97,7 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.google.com/logos/2010/pacman10-hp.html" target="_blank">
-    <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/pac-man.gif" alt="Pac-Man" height="100" />
-  </a>
-  <br />
-  <sub>🟡 Click the Pac‑Man to play the classic arcade game!</sub>
-</p>
-
-
+<img align="center" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 
 <!-- Animated footer wave -->
