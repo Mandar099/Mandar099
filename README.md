@@ -78,7 +78,7 @@
 <!-- GitHub Streak -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" 
+    src="https://streak-stats.demolab.com/?user=Mandar099&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2196F3&sideLabels=2196F3" 
     alt="GitHub Streak" 
     width="580" />
 </p>
